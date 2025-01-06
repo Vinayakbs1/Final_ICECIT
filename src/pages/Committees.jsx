@@ -370,7 +370,7 @@ const publicationChairs = [
     role: "Associate Professor, Dept. of Computer Science & Engineering"
   },
   {
-    name: "Devendra Gowda",
+    name: "Mr. Devendra Gowda",
     role: "Execom Member, IEEE Bangalore Section"
   },
   {
