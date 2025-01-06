@@ -624,7 +624,7 @@ function AboutUs() {
                           Facebook
                         </a>
                         <a 
-                          href="https://www.linkedin.com/school/siddaganga-institute-of-technology"
+                          href="https://www.linkedin.com/school/sit-tumkur/"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-blue-600 hover:text-blue-800 transition-colors"
