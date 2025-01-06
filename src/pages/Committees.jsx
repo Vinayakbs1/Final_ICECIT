@@ -386,8 +386,8 @@ const publicationChairs = [
     role: "Assistant Professor, Dept. of Computer Science & Engineering"
   },
   {
-    name:"Dr. S Sharath Kumar",
-    role:"Assistant Professor, Dept. of Information Science & Engineering"
+    name: "Dr. G Jagadamba",
+    role: "Assistant Professor, Dept. of Information Science & Engineering"
   }
 ];
 
@@ -399,8 +399,8 @@ const publicityChairs = [
     role: "Associate Professor, Dept. of Computer Science & Engineering"
   },
   {
-    name: "Dr. G Jagadamba",
-    role: "Assistant Professor, Dept. of Information Science & Engineering"
+    name:"Dr. S Sharath Kumar",
+    role:"Assistant Professor, Dept. of Information Science & Engineering"
   },
   {
     name: "Dr. R M Savithramma",
