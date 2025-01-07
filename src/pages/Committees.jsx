@@ -665,7 +665,7 @@ const Committees = () => {
             Advisory Committee
           </h2>
           <div className="committee-grid">
-            {advisoryCommittee.slice(0, 12).map((member, index) => (
+            {advisoryCommittee.slice(0, 14).map((member, index) => (
               <motion.div 
                 key={index}
                 className="text-center card p-6"
